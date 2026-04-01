@@ -82,11 +82,5 @@ This has important implications for:
 ## 🧰 Tools
 R, Monte Carlo simulation, linear mixed-effects models (lme4)
 
----
-
-## 📁 Repository Structure
-- analysis.R → simulation and modeling
-- figures/ → power curves and model outputs
-- README.md → project summary
 
 See the preregistration of the project: https://osf.io/cu27d/overview
